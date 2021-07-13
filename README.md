@@ -1,3 +1,11 @@
+# Keve's notes for this fork
+I found Faraj Farook's code to be a very promising and very educational proof-of-concept solution to a **keyboard and mouse input logging** challenge I have been interested in. His source helped me to confirm that what I had on mind is actually doable, and it saved me a considerable amount of time and effort by showing **HOW** it can be done. So I am grateful, and much appreciate that he shared his work publicly.
+The original [farajfarook/windows-keylogger](https://github.com/farajfarook/windows-keylogger) code is very spartaic though. And I have plans to extend it with many essential convenience and usability functions it lacks, plus customise it to my specific needs for academic research purposes in an educational environment. Hence this fork was made.
+
+For now, I leave the original contents of the README below.
+
+---
+
 # Windows Keylogger
 User Mode - Windows Key Logger application for educational purposes
 
